@@ -1,5 +1,6 @@
 {
     "name": "renaissance/b2b",
+    "version": "1.0.0",
     "description": "Renaissance Themes: B2B edition (supersedes Adobe Commerce, adds B2B module styling)",
     "type": "metapackage",
     "license": "proprietary",
